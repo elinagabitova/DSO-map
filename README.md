@@ -1,4 +1,5 @@
-# DevSevOps road to Senior
+# DevSevOps
+Обновляемая подборка для обучения
 
 ## Полезные ссылки:
 - Подборка на русском от Swordish Security - [Awesome DevsecOps](https://github.com/Swordfish-Security/awesome-devsecops-russia)
