@@ -3,7 +3,7 @@
 
 ## Полезные ссылки:
 - Подборка на русском от Swordish Security - [Awesome DevsecOps](https://github.com/Swordfish-Security/awesome-devsecops-russia)
-- Перевод на русский Fast Docker - [Fast-Docker-Education)(https://github.com/elinagabitova/fast-docker-education)
+- Перевод на русский Fast Docker - [Fast-Docker-Education](https://github.com/elinagabitova/fast-docker-education)
 
 ## Материалы для перевода:
 
