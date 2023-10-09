@@ -17,7 +17,7 @@
 
 
 ### AppSec
-
+- OWASP top 10 [с методами устранения](https://itsecforu.ru/2023/01/30/owasp-top-10-razbiraem-uyazvimosti-i-kak-ih-ustra/)
 
 ### CheatSheets
 
